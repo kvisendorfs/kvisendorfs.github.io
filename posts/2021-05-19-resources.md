@@ -1,3 +1,8 @@
+---
+layout: post
+title: Resources
+---
+
 For the second time in 6 months I’m mentoring a new colleague at my company. And again - that person doesn't have a lot of experience in software development. One thing - telling him about our internal processes e.c. Other - what are my sources of knowledge? What do I use or have used to gain my knowledge?
 
 I will try to categorize my sources down below.
